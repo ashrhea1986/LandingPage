@@ -85,3 +85,8 @@ video {
       #boxes  .fa-ebay {
         color: rgb(241, 43, 43);
       }
+      @media (max-width: 768px) {
+        h1 .title {
+          padding: 0 100px;
+        }
+      }
